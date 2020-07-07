@@ -1,0 +1,5 @@
+JMH S 33 JMH.benchmark.GenerationBenchmark S 77 JMH.benchmark.generated.GenerationBenchmark_loaderGenerationBenchmark_jmhTest S 25 loaderGenerationBenchmark S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms1G 6 -Xmx1G E E E U 12 MILLISECONDS E E 
+JMH S 16 generator.Loader S 40 generator.generated.Loader_setUp_jmhTest S 5 setUp S 10 Throughput E A 1 1 1 E I 1 0 E E I 1 1 E E E E E E E E E E E E 
+JMH S 19 generator.Generator S 41 generator.generated.Generator_run_jmhTest S 3 run S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 23 JMH.GenerationBenchmark S 63 JMH.generated.GenerationBenchmark_newGeneratorBenchmark_jmhTest S 21 newGeneratorBenchmark S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms1G 6 -Xmx1G E E E U 12 MILLISECONDS E E 
+JMH S 23 JMH.GenerationBenchmark S 65 JMH.generated.GenerationBenchmark_basicGeneratorBenchmark_jmhTest S 23 basicGeneratorBenchmark S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms1G 6 -Xmx1G E E E U 12 MILLISECONDS E E 
