@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c24eee5d-4ad3-40f0-a8be-df1c4f79f1bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bubble_sort/TestBubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array_max_value/ArrayMaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_max_value/ArrayMaxValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/merge_sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/merge_sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quick_sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quick_sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rabin_karp/RabinKarpExtended.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rabin_karp/RabinKarpExtended.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStructures/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="877" />
-  </component>
   <component name="ProjectId" id="1bcSFrqdZ443lZdDxvhm2BIAUki" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -51,9 +38,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582543715733" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DataStructures" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -103,9 +91,9 @@
     </configuration>
     <list>
       <item itemvalue="Application.IterationVsRecursion" />
-      <item itemvalue="Application.Stack" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Recursion" />
+      <item itemvalue="Application.Stack" />
     </list>
     <recent_temporary>
       <list>
@@ -134,6 +122,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1589450876236" />
+    <state x="2340" y="311" key="FileChooserDialogImpl" timestamp="1594283752144">
+      <screen x="1920" y="65" width="1280" height="984" />
+    </state>
+    <state x="2340" y="311" key="FileChooserDialogImpl/1920.65.1280.984/0.0.1920.1040@1920.65.1280.984" timestamp="1594283752144" />
     <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589451082498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
