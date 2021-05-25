@@ -1,4 +1,4 @@
 # TrainingProjects
 
-* Алгоритмы
+* [Алгоритмы](https://github.com/Karmashov/TrainingProjects/tree/master/Algorithms) - различные типовые алгоритмы
   * [Поиск максимального значения в массиве](https://github.com/Karmashov/TrainingProjects/tree/master/Algorithms/src/array_max_value)
