@@ -1,4 +1,4 @@
-# TrainingProjects
+# :books: TrainingProjects
 
 * [Algorithms](https://github.com/Karmashov/TrainingProjects/tree/master/Algorithms) - various typical algorithms
   * [Array maximum value search](https://github.com/Karmashov/TrainingProjects/tree/master/Algorithms/src/array_max_value)
