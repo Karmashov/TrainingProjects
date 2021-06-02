@@ -17,3 +17,6 @@
   * [Double linked list structure](https://github.com/Karmashov/TrainingProjects/tree/master/DataStructures/src/double_linked_list)
   * [Single linked list structure](https://github.com/Karmashov/TrainingProjects/tree/master/DataStructures/src/single_linked_list)
   * [Suffix tree structure](https://github.com/Karmashov/TrainingProjects/tree/master/DataStructures/src/suffix_tree)
+* [Multithreading](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading) - Experiments with multithreading
+  * [Image resizer](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading/ImageResizer) - Image resizer program. Works in multithreading mode, depending on the number of available computer processor cores.
+  * [Transactions](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading/Transactions) - A program that simulates banking transactions. All transactions >50,000 require a security service check. If fraud is detected, both accounts are blocked, receiving a ban on any operations.
