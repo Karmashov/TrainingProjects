@@ -12,3 +12,8 @@
 * [BigData](https://github.com/Karmashov/TrainingProjects/tree/master/BigData) - experiments and examples with frameworks for big data
   * [Experiments with Apache Hadoop File System](https://github.com/Karmashov/TrainingProjects/tree/master/BigData/HDFSExample)
   * [Experiments with Apache Spark framework](https://github.com/Karmashov/TrainingProjects/tree/master/BigData/SparkExample)
+* [DataStructures](https://github.com/Karmashov/TrainingProjects/tree/master/DataStructures) - Data structures and their implementations
+  * [Binary Tree structure](https://github.com/Karmashov/TrainingProjects/tree/master/DataStructures/src/binary_tree)
+  * [Double linked list structure](https://github.com/Karmashov/TrainingProjects/tree/master/DataStructures/src/double_linked_list)
+  * [Single linked list structure](https://github.com/Karmashov/TrainingProjects/tree/master/DataStructures/src/single_linked_list)
+  * [Suffix tree structure](https://github.com/Karmashov/TrainingProjects/tree/master/DataStructures/src/suffix_tree)
