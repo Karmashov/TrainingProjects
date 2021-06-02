@@ -20,3 +20,9 @@
 * [Multithreading](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading) - Experiments with multithreading
   * [Image resizer](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading/ImageResizer) - Image resizer program. Works in multithreading mode, depending on the number of available computer processor cores.
   * [Transactions](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading/Transactions) - A program that simulates banking transactions. All transactions >50,000 require a security service check. If fraud is detected, both accounts are blocked, receiving a ban on any operations.
+  * [WebCrawler](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading/webCrawler) - An application that in multithreading mode creates a map of a given site (a list of links), and write it to a file.
+* [No SQL databases operations](https://github.com/Karmashov/TrainingProjects/tree/master/NoSQL) - Programs to work with No SQL databases
+  * [Dating Site](https://github.com/Karmashov/TrainingProjects/tree/master/NoSQL/DatingSite) - Program simulates a profiles display function on a dating site, provides the function of "monetized show profile". Based on Redis database.
+  * [Store DB](https://github.com/Karmashov/TrainingProjects/tree/master/NoSQL/StoresDB) - Program simulates database for store. Can add different stores, add products with prices and show global statistics. Based on MongoDB.
+  * [Students DB](https://github.com/Karmashov/TrainingProjects/tree/master/NoSQL/Students) - Program for parsing CSV, storing information about students and show statistics. Based on MongoDB.
+* 
