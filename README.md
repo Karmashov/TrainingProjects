@@ -21,8 +21,16 @@
   * [Image resizer](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading/ImageResizer) - Image resizer program. Works in multithreading mode, depending on the number of available computer processor cores.
   * [Transactions](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading/Transactions) - A program that simulates banking transactions. All transactions >50,000 require a security service check. If fraud is detected, both accounts are blocked, receiving a ban on any operations.
   * [WebCrawler](https://github.com/Karmashov/TrainingProjects/tree/master/Multithreading/webCrawler) - An application that in multithreading mode creates a map of a given site (a list of links), and write it to a file.
-* [No SQL databases operations](https://github.com/Karmashov/TrainingProjects/tree/master/NoSQL) - Programs to work with No SQL databases
+* [No SQL databases operations](https://github.com/Karmashov/TrainingProjects/tree/master/NoSQL) - Projects for working with no SQL databases
   * [Dating Site](https://github.com/Karmashov/TrainingProjects/tree/master/NoSQL/DatingSite) - Program simulates a profiles display function on a dating site, provides the function of "monetized show profile". Based on Redis database.
   * [Store DB](https://github.com/Karmashov/TrainingProjects/tree/master/NoSQL/StoresDB) - Program simulates database for store. Can add different stores, add products with prices and show global statistics. Based on MongoDB.
   * [Students DB](https://github.com/Karmashov/TrainingProjects/tree/master/NoSQL/Students) - Program for parsing CSV, storing information about students and show statistics. Based on MongoDB.
-* 
+* [Performance](https://github.com/Karmashov/TrainingProjects/tree/master/Performance) - Projects for training possibilities of optimization by time and memory
+  * [Car Number Generator](https://github.com/Karmashov/TrainingProjects/tree/master/Performance/CarNumberGenerator) - A program that generates a large list of car numbers. Contains 2 generators (basic and multithreading version). Using JMH framework to measure the execution time.
+  * [Vote Analyzer](https://github.com/Karmashov/TrainingProjects/tree/master/Performance/VoteAnalyzer) - Program for parsing votes from XML file and write data to database, that show the differences in memory usage between DOM parser and SAX parser.
+* [SQL](https://github.com/Karmashov/TrainingProjects/tree/master/SQL) - Projects to work with MySQL database
+  * [Hibernate operations](https://github.com/Karmashov/TrainingProjects/tree/master/SQL/HibernateExperiments) - Program for working with students database with usage of Hibernate.
+* [Spring framework](https://github.com/Karmashov/TrainingProjects/tree/master/SpringBoot) - Projects for working with Spring Boot
+  *  [Book Library](https://github.com/Karmashov/TrainingProjects/tree/master/SpringBoot/BookLibrary) - A simple program that simulates library software.
+  *  [To do list](https://github.com/Karmashov/TrainingProjects/tree/master/SpringBoot/ToDoList) - A simple program to store and check your tasks.
+*  [Swing experiments](https://github.com/Karmashov/TrainingProjects/tree/master/SwingExperiments) - A simple program showing possibilities for creating desktop applications
