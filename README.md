@@ -9,3 +9,6 @@
   * [The generalization of binary search and mergesort](https://github.com/Karmashov/TrainingProjects/tree/master/Algorithms/src/merge_sort_binary_search) - added support for any arrays containing comparable values + test
   * [Quick sort algorithm](https://github.com/Karmashov/TrainingProjects/tree/master/Algorithms/src/quick_sort) + test
   * [Rabin-Karp substring search algorithm](https://github.com/Karmashov/TrainingProjects/tree/master/Algorithms/src/rabin_karp) + test
+* [BigData](https://github.com/Karmashov/TrainingProjects/tree/master/BigData) - experiments and examples with frameworks for big data
+  * [Experiments with Apache Hadoop File System](https://github.com/Karmashov/TrainingProjects/tree/master/BigData/HDFSExample)
+  * [Experiments with Apache Spark framework](https://github.com/Karmashov/TrainingProjects/tree/master/BigData/SparkExample)
